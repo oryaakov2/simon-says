@@ -1,4 +1,6 @@
 # Simon-Says Application
+
+# Description
 Developed in ReactNative and Redux, Using MMKV Storage to save the 10 best results (not deleted when reopening the app).
 
 # Images
